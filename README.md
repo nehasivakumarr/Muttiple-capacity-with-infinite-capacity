@@ -73,12 +73,8 @@ else:
 
 print("-----------------------------------------------------")
 ```
-
-
 ## Output :
 <img width="798" height="458" alt="image" src="https://github.com/user-attachments/assets/f12c352c-1793-42f0-aec6-e93700bf20fa" />
-
-
 ## Result : 
 The average number of material in the system and in the conveyor and waiting are
 successfully found. 
